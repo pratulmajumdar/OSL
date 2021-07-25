@@ -1,0 +1,12 @@
+.list-outer-box{
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+    margin-top: 5rem;
+    border: black 1px solid;
+    width: 60%;
+}
+
+.table-td {
+    font-weight: 100;
+}
